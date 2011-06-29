@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, UserProfileActivity!</string>
-    <string name="app_name">UserProfile</string>
+    <string name="login">Login</string>
+    <string name="logout">Log out</string>
+    <string name="welcome">Hi there, please log in to identify yourself!</string>
+    <string name="app_name">Facebook Login</string>
 </resources>
